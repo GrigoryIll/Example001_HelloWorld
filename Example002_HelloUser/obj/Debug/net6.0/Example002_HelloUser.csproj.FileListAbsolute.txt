@@ -1,0 +1,15 @@
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+E:\Users\Grigory\Documents\New tests\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
